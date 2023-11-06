@@ -6,3 +6,7 @@ hr {
     border: 1px;
     border-style: solid;
 }
+
+img{
+    width: 100%;
+}
